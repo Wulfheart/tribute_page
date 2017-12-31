@@ -1,0 +1,40 @@
+.content{
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color:   hsl(13, 0%, 96%);
+ }
+
+.body {
+   background-color:   hsl(13, 0%, 96%);
+}
+
+ /* unvisited link */
+a:link {
+    color: #23D160;
+  text-underline: none;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #23D160;
+  text-underline: none;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color:  hsl(0, 0%, 4%) ;
+  text-underline: none;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color:  hsl(0, 0%, 4%) ;
+  text-underline: none;
+  text-decoration: none;
+} 
+
+
+#23D160
