@@ -1,11 +1,15 @@
 .content{
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color:   hsl(13, 0%, 96%);
+  //background-color:    hsl(141, 71%, 48%) ;
  }
 
 .body {
-   background-color:   hsl(13, 0%, 96%);
+   background-color:   ;
+}
+
+p{
+    margin-bottom: 0.5em;
 }
 
  /* unvisited link */
@@ -35,6 +39,24 @@ a:active {
   text-underline: none;
   text-decoration: none;
 } 
+
+.pd{
+  padding-top: 4em;
+  padding-bottom:4em;
+  }
+
+.down{
+  background-color:  hsl(0, 0%, 21%) ;
+  color:  hsl(0, 0%, 96%) ;
+}
+
+
+img{
+  padding-bottom: 2em;
+}
+
+
+
 
 
 #23D160
